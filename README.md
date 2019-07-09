@@ -1,6 +1,6 @@
 # Scale-Workshop.github.io
 ## Webpage for Scale Workshop
-### Next meeting scheduled tentatively for Sat, July 13 (location will be anounced shortly)
+### Next meeting scheduled for Sat, July 13 @ Coding Dojo in Burbank
 
 This is the git repo for the SoCAL Linux Expo (SCaLE, <https://www.socallinuxexpo.org> ) Tech team Scale-Workshop. The purpose of the workshop is to teach advance Linux & network skill to help role out the network for SCaLE.
 
